@@ -19,7 +19,7 @@ $ php artisan key:generate
     setup DB in .env
 $ npm install
 $ npm run dev
-$ php artisan server
+$ php artisan serve
 ```
 
 
