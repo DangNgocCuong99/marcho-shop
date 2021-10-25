@@ -13,7 +13,6 @@ This is my project Laravel Marcho Ecommerce
 ```sh
 $ git clone
 $ composer install
-// Database is : 'laravel.sql'
 $ cp .env.example .env
 $ php artisan key:generate
     setup DB in .env
